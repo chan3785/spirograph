@@ -76,7 +76,7 @@ export const Header = () => {
                 className="w-full border border-solid border-stone-500 stroke-[1px] stroke-stone-500"
                 style={{height: "0px"}}
             />
-            <div className="mt-1.5 text-left">MADE GRAPHIC &gt;</div>
+            <div className="mt-[1.5vh] text-left">MADE GRAPHIC &gt;</div>
             </div>
             </div>
         </div>

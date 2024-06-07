@@ -156,7 +156,7 @@ export default function Main() {
         </div>
       </div>
 
-      <div className="text-left text-custom leading-custom self-start mt-24 ml-5 md:w-1/3 text-sm font-medium text-neutral-400  max-md:mt-10 max-md:max-w-full">
+      <div className="text-left text-custom leading-custom self-start mt-[6vh] ml-[1.25vw] md:w-[33.33vw] text-sm font-medium text-neutral-400 max-md:mt-[2.5vh] max-md:max-w-full">
         농업에서 인터넷에 이르는 기술의 발전은 인류에게 생존과 편의의 혁명적
         변화를 가져왔다. <br /> 바퀴의 '속도', 인쇄술의 '지식', 전구의 '빛',
         컴퓨터와 인터넷의 '연결'은 우리 문명을 전례 없이 <br /> 도약시키는
